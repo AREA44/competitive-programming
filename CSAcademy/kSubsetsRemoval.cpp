@@ -14,7 +14,7 @@
 // Constraints and notes
 // 1 <= K <= N <= 1000
 // The elements of the array are integers between 1 and 1000
-// Input	                             Output	               Explanation
+// Input	                          Output	            Explanation
 // 5                                   1                     We can perform only one operation: remove two elements equal to 3.
 // 3 3 3 1 2                                                 So in the end each distinct value has a frequency of 1.
 

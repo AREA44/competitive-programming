@@ -1,4 +1,5 @@
-// Find the greatest common divisor of two given integers. Each integer is given in the form of its prime factorization - a sorted array of all prime factors of the number.
+// Find the greatest common divisor of two given integers.
+// Each integer is given in the form of its prime factorization - a sorted array of all prime factors of the number.
 // Example
 // * For a = [2, 3, 3, 3, 5] and b = [2, 2, 2, 2, 3, 3], the output should be
 // factorizedGCD(a, b) = 18.

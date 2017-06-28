@@ -1,5 +1,6 @@
 // Consider the "circular" alphabet. It is the same as the ordinary one but 'z' is followed by 'a'.
-// In such an alphabet one can define a k-shift for any 0 ≤ k < 26. Applying such a shift will change each letter of the string with a letter that comes exactly k letters after. For instance, 3-shift will change 'a' to 'd' and 'y' to 'b'.
+// In such an alphabet one can define a k-shift for any 0 ≤ k < 26.
+// Applying such a shift will change each letter of the string with a letter that comes exactly k letters after. For instance, 3-shift will change 'a' to 'd' and 'y' to 'b'.
 // Given an initial string and its k-shift (for some unknown k) with some mistakes (a mistake means that a character was shifted incorrectly), find the minimal possible number of mistakes.
 // Example
 // * For inputString = "xyza" and encodedString = "abdd", the output should be

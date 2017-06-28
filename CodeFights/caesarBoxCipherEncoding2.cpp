@@ -1,4 +1,5 @@
-// Caesar Box is a simple transposition cipher used in the Roman Empire. It is described as the following two-step process:
+// Caesar Box is a simple transposition cipher used in the Roman Empire.
+// It is described as the following two-step process:
 // The characters of the given message are broken into n lines of equal lengths and stacked up;
 // The letters from the resulting rectangle are written from top to bottom column by column.
 // Given a word, count the number of different n such that the initial message is the same as the double-encoded message.

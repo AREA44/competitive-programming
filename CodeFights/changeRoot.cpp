@@ -1,4 +1,5 @@
-// You are given an array parent of length N specifying a tree. The vertices of the tree are numbered from 0 to N-1 and parent[i] is the parent of the ith node. The root of the tree is its own parent (i.e. parent[i] = i if and only if i is a root).
+// You are given an array parent of length N specifying a tree.
+// The vertices of the tree are numbered from 0 to N-1 and parent[i] is the parent of the ith node. The root of the tree is its own parent (i.e. parent[i] = i if and only if i is a root).
 // What will the parent array look like if the edges remain the same but tree is rooted at the vertex newRoot?
 // Example
 // * For parent = [0, 0, 0, 1] and newRoot = 1, the output should be
