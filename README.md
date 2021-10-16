@@ -1,18 +1,16 @@
 # Competitive Programming
 
-Solutions and algorithms for:
+Solutions and algorithms for competitive programming.
 
-## [UVa Online Judge](https://uva.onlinejudge.org)
-![UVa Online Judge](https://uva.onlinejudge.org/templates/hm_yaml_2_5/img/onlinejudgelogo2.png)
+## Competitive Programming Sites
 
-## [USA Computing Olympiad](http://usaco.org)
-![USA Computing Olympiad](http://usaco.org/current/images/usaco_logo.png)
+[![image](https://user-images.githubusercontent.com/27698189/137591823-b6a3e68a-1492-42e8-969f-6e10b545cedd.png)](https://onlinejudge.org/)
 
-## [Russian Code Cup](http://www.russiancodecup.ru)
-![Russian Code Cup](https://russiancodecup.ru/static/rcc_app/img/logo.png)
+[![image](https://user-images.githubusercontent.com/27698189/137591987-53f11e30-0791-44f0-a7e8-e02fae7423a5.png)](http://usaco.org)
 
-## [CodeFights](https://codefights.com)
-![CodeFights](https://cloud.githubusercontent.com/assets/16760489/19220726/c1451914-8e23-11e6-9d61-eaeadfa7551c.jpg)
+[![image](https://user-images.githubusercontent.com/27698189/137591782-35b6051e-675e-4371-a9c8-0476a09def84.png)](http://www.russiancodecup.ru)
 
-## [CS Academy](https://csacademy.com)
-![CS Academy](https://csacademy.com/static/icon.png)
+[![image](https://user-images.githubusercontent.com/27698189/137592123-0a31a144-e22c-4e00-a50f-69cf2b13ae04.png)](https://csacademy.com)
+
+## License
+The license under the [MIT](LICENSE) license.
